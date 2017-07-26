@@ -5,7 +5,7 @@ var testString = "There are 3 cats but 4 dogs.";
 // Only change code below this line.
 
 //var expression = /.+/g;  // Change this line
-  var expression = /\d/g;
+  var expression = /\d+/g;
 // Only change code above this line
 
 // This code counts the matches of expression in testString
